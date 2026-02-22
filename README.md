@@ -1,4 +1,5 @@
 # Turborepo starter
+<img width="1211" height="680" alt="Screenshot 2026-02-22 at 4 06 29 PM" src="https://github.com/user-attachments/assets/227c641e-7e46-4896-86cf-140716431535" />
 
 This Turborepo starter is maintained by the Turborepo core team.
 
